@@ -45,7 +45,7 @@
 
 > 🧑‍⚖️ Anyone can be a **NyaySathi** – lawyer, NGO, professor, or volunteer – and support someone in need.
 
-🔗 [Live Site](https://nyaysethu.online) | [GitHub](https://github.com/devilisback100/NyaySathi_bot)
+🔗 [Live Site](https://nyaysethu.online) | [GitHub](https://github.com/devilisback100/Nyay_sethu_frontend)
 
 ---
 
