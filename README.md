@@ -30,8 +30,8 @@
 
 ---
 
-## 🛡️ NyaySathi – Empowering Justice with AI
-**NyaySathi** is a multilingual legal aid platform that helps victims of injustice connect with trusted legal experts, get instant AI-driven legal support, and access nearby help like shelters or police stations.
+## 🛡️ NyaySethu – Empowering Justice with AI
+**NyaySethu** is a multilingual legal aid platform that helps victims of injustice connect with trusted legal experts, get instant AI-driven legal support, and access nearby help like shelters or police stations.
 
 🚀 **Built With:** React + Flask + Gemini AI + MongoDB
 
