@@ -176,14 +176,3 @@ AI Full-Stack Developer Intern
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devilisback100&show_icons=true&theme=tokyonight" height="180"/>
-
-  <img src="https://streak-stats.demolab.com?user=devilisback100&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilisback100&layout=compact&theme=tokyonight"/>
-</p>
