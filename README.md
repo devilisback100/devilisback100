@@ -43,7 +43,6 @@ Currently seeking Software Engineer and Full-Stack Engineer opportunities.
 🏆 Meta Hacker Cup 2025 — AI Track
 
 - Round 1 Rank: 94 / 13,779
-- Score: 45 / 105
 
 💻 Solved 1000+ Problems on LeetCode
 
