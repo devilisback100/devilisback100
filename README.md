@@ -1,96 +1,190 @@
-<h1 align="center">Hi 👋, I'm Suresh Paliwal</h1>
-<h3 align="center">Web Wizard | ML Innovator | Cyber Agent | Creative Thinker</h3>
+<h1 align="center">Hi, I'm Suresh Paliwal 👋</h1>
 
+<h3 align="center">
+Software Engineer | Full-Stack Developer | AI Systems Engineer
+</h3>
 
 <p align="center">
-  <a href="https://suresh-portfolio-webapp.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=flat-square&logo=vercel"/>
+Building AI-powered software, developer tools, and scalable full-stack applications.
+</p>
+
+<p align="center">
+  <a href="https://suresh-portfolio-webapp.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?style=for-the-badge&logo=vercel">
   </a>
-  <a href="mailto:sanj35814@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-sanj35814@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
+
+  <a href="mailto:sureshpaliwal357@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/suresh-paliwal-a75a41266/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+
+  <a href="https://www.linkedin.com/in/suresh-paliwal3/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://leetcode.com/u/suresh_paliwal">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode" />
-  </a>
-  <a href="https://www.naukri.com/code360/profile/Suresh_paliwal">
-    <img src="https://img.shields.io/badge/CodingNinjas-Profile-red?style=flat-square&logo=python" />
+
+  <a href="https://github.com/devilisback100">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
   </a>
 </p>
 
 ---
 
-### 🧠 Core Areas
-- **Web Development** (React, Flask, Vercel)
-- **Machine Learning / Deep Learning** (Python, Scikit-learn, TensorFlow)
-- **UI/UX Enthusiast** (Figma, Framer, TailwindCSS)
-- **Agentic AI Systems** (LangChain, Gemini, Neo4j, FAISS)
-- **Cyber Security & Automation** (OWASP Top 10, Ethical tools)
+## About Me
+
+Final-year B.Tech student in Artificial Intelligence & Machine Learning at CMR University.
+
+I build software systems that combine backend engineering, AI, retrieval systems, browser extensions, and full-stack application development. My interests include agentic systems, vector search, developer tools, and scalable software architecture.
+
+Currently seeking Software Engineer and Full-Stack Engineer opportunities.
 
 ---
 
-## 🛡️ NyaySethu – Empowering Justice with AI
-**NyaySethu** is a multilingual legal aid platform that helps victims of injustice connect with trusted legal experts, get instant AI-driven legal support, and access nearby help like shelters or police stations.
+## Highlights
 
-🚀 **Built With:** React + Flask + Gemini AI + MongoDB
+🏆 Meta Hacker Cup 2025 — AI Track
 
-### 👉 Features:
-- 🤖 AI Chatbot (10+ Languages)
-- 💬 Real-Time Legal Chat & Appointments
-- 📍 Nearby Help Finder (NGOs, Police, Shelters)
-- 📚 Legal Resources & PDF Library
-- 📢 Success Stories and Ratings System
-- 🔒 Role-based Access (Lawyers, NGOs, Volunteers)
+- Round 1 Rank: 94 / 13,779
+- Score: 45 / 105
 
-> 🧑‍⚖️ Anyone can be a **NyaySathi** – lawyer, NGO, professor, or volunteer – and support someone in need.
+💻 Solved 1000+ Problems on LeetCode
 
-🔗 [Live Site](https://nyaysethu.online) | [GitHub](https://github.com/devilisback100/Nyay_sethu_frontend)
+🏆 Winner — March Mania Hackathon 2025
+
+💼 AI Full-Stack Developer Intern at Codebasera Technologies
 
 ---
 
-## 🚀 Other Highlight Projects
+## Tech Stack
 
-### 🌐 [Amul Website Redesign](https://amul-website-redesign.vercel.app/)
-Redesigned Amul's website with modern UX principles and sleek animations.
-- 🔧 React, Flask, GSAP
-- 🎯 Smooth animations & scraping modules
-- [GitHub](https://github.com/devilisback100/AlPha_squad_Rookies_ReimagineRound2)
+### Languages
 
----
+Python • C++ • JavaScript • TypeScript
 
-### 🧠 [SymptPredict](https://sympt-predict.vercel.app/)
-Predict diseases from symptoms using ML models.
-- 🔧 Python, Flask, React, ML
-- 🩺 Predicts Heart, Kidney, Cancer, Stroke & Diabetes
-- [GitHub](https://github.com/devilisback100/Sympt_Predict)
+### Backend
 
----
+Flask • FastAPI • REST APIs
 
-### 😊 [Emotion Analysis](https://emotion-analysis-pied.vercel.app/)
-Analyzes user text and responds with emojis/emotion tags.
-- 🔧 NLP, Flask, ML, React
-- 🎭 Empathetic responses
-- [GitHub](https://github.com/sumitjha33/Emotion_analysis)
+### Frontend
 
----
+React • Vite • TailwindCSS
 
-### 🧠 [Skill-Nest](https://skill-nest-black.vercel.app/)
-Gamified platform to learn, compete, and grow tech skills.
-- 🔧 Flask, LLM, MongoDB, React
-- 🧩 Tech challenges & AI skill recommender
-- [GitHub](https://github.com/devilisback100/skill_nest)
+### AI Systems
+
+LangChain • FAISS • ChromaDB • RAG • Multi-Agent Systems
+
+### Databases
+
+MongoDB • Neo4j • Redis
+
+### Deployment
+
+Vercel • Render • GCP • Hugging Face
 
 ---
 
-## 📈 Stats
+# Featured Projects
+
+## 🚀 Cosmos Connect (Ongoing)
+
+Multi-agent platform for space, climate, and weather intelligence.
+
+### Highlights
+
+- Semantic routing across specialized agents
+- FAISS and ChromaDB retrieval
+- Neo4j knowledge graph integration
+- NASA, MOSDAC, OpenWeather integrations
+- Automatic agent fallback and orchestration
+
+**Stack:** FastAPI • LangChain • FAISS • Neo4j • Python
+
+---
+
+## 📝 Supreme Web Note (Ongoing)
+
+Browser extension for page-aware note taking and knowledge management.
+
+### Highlights
+
+- Custom text-anchor architecture
+- Context-aware anchor restoration
+- CSS Custom Highlight API
+- Graph visualization system
+- Persistent IndexedDB storage
+
+**Stack:** React • TypeScript • CRXJS • Dexie
+
+---
+
+## ⚖️ NyaySethu
+
+AI-powered legal assistance platform connecting users with legal resources and support.
+
+🔗 https://nyaysethu.online
+
+### Impact
+
+- 30K+ organic search impressions
+- 5K+ clicks
+- 6,000+ chat messages processed
+- Users across multiple Indian states
+
+### Features
+
+- AI Legal Assistant
+- IPC Section Identification
+- Advisor Matching
+- Multi-role Authentication
+
+**Stack:** React • Flask • MongoDB • Gemini AI
+
+---
+
+## 🎯 Skill Nest
+
+Gamified learning platform for technical skill development.
+
+### Features
+
+- AI-powered skill recommendations
+- Technical challenges
+- Learning progression system
+- Community engagement features
+
+**Stack:** React • Flask • MongoDB • LLMs
+
+---
+
+## Experience
+
+### Codebasera Technologies
+
+AI Full-Stack Developer Intern
+
+- Built data pipelines for agentic AI systems
+- Developed automated Neo4j query generation workflows
+- Worked with large-scale genealogy datasets
+- Contributed to systems serving millions of users
+
+---
+
+## Current Focus
+
+- Agentic AI Systems
+- Retrieval Architectures (RAG)
+- Backend Engineering
+- Browser Extension Development
+- Knowledge Graph Systems
+
+---
+
+## GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devilisback100&show_icons=true&theme=tokyonight"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=devilisback100&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devilisback100&show_icons=true&theme=tokyonight" height="180"/>
+
+  <img src="https://streak-stats.demolab.com?user=devilisback100&theme=tokyonight" height="180"/>
 </p>
 
----
-
-> "Code with heart. Build with impact."
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilisback100&layout=compact&theme=tokyonight"/>
+</p>
